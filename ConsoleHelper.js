@@ -6,6 +6,7 @@
 // @author       @Friendlybaron
 // @match        https://www.speedrun.com/gtav
 // @match        https://www.speedrun.com/gtav#*
+// @match        https://www.speedrun.com/gtav/*
 // @grant        GM_xmlhttpRequest
 // @require      http://code.jquery.com/jquery-3.5.1.js
 // ==/UserScript==
