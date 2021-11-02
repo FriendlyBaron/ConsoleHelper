@@ -19,7 +19,7 @@ var enabled = false; //varaible for whether or not we should stop hiding the PC 
 
 var urlText = window.location.href; //variable storing current URL browser is at\
 
-$j("a[class='btn btn-default mb-1']").each(function( index ) //Searching the document for the button type we want to copy for setup
+$j("a[class='btn btn-default mb-1 variable-tab']").each(function( index ) //Searching the document for the button type we want to copy for setup
 {
     if($j( this ).text().includes("View rules")) //Selecting the "View Rules" button. For ease, we'll just copy it and modify a few things for our "Hide PC Runs" button
     {
