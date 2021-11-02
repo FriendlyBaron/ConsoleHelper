@@ -14,3 +14,5 @@ You can press the button again to again show PC runs. The text of the button wil
 For non-programmers, every single line of the code is commented explaining what it does.
 
 Note that upon hiding PC runs, it will turn on the "Show Obsolete Runs" option, which may take a moment to load. This is done because it lets us find runs done by people who used to play on Console, but now play on PC, and still see their fastest console runs. It will show a '-' next to their normal rank if it is one of these runs.
+
+Install helper on Greasyfork: https://greasyfork.org/en/scripts/431276-consolehelper
