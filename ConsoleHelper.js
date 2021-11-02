@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ConsoleHelper
 // @namespace    https://github.com/FriendlyBaron/ConsoleHelper
-// @version      1.0
+// @version      1.1
 // @description  Hides PC runs from the GTAV Speedrun.com Leaderboard
 // @author       @Friendlybaron
 // @match        https://www.speedrun.com/gtav
